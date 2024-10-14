@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://indisort.github.io/sitemap.html.gz
+Sitemap: https://indisort.github.io/app/sitemap.html.gz
+Sitemap: https://indisort.github.io/assets/sitemap.html.gz
+Sitemap: https://indisort.github.io/css/sitemap.html.gz
+Sitemap: https://indisort.github.io/includes/sitemap.html.gz
+Sitemap: https://indisort.github.io/item/sitemap.html.gz
+Sitemap: https://indisort.github.io/src/sitemap.html.gz
